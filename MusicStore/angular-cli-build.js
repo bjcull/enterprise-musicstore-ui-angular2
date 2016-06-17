@@ -13,7 +13,6 @@ module.exports = function (defaults) {
       'rxjs/**/*.+(js|js.map)',
       '@angular/**/*.+(js|js.map)',
       '@angular2-material/**/*.+(js|js.map)',
-      'angular2-jwt/angular2-jwt.js'
     ]
   });
 };
